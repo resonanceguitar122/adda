@@ -10,7 +10,7 @@
 ###### You can fork this repository and connect clever-cloud with it for faster creation.
 ###### Node Js and Npm is required in development machine.
 ###### Without https any communication will not work.
-** If you want to run it in your local machine follow these steps:**
+**If you want to run it in your local machine follow these steps:**
 ```bash
 sudo -i
 git clone https://github.com/cachecleanerjeet/video_conference.git
