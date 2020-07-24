@@ -18,21 +18,20 @@ node src/app.js
 ```
 <br><br>
 **To run this forever in a server follow these steps:**
-
-    
+```bash
     ##Install NodeJS and Npm
     curl -sSL https://git.io/JJ4ka | bash
-    
+ ```   
 <br><br>
 **To start/stop adda from a forever state:**
-
+```bash
     ##Make Sure You Are Root
     forever stop /root/adda/src/app.js
     
     /
     
     forever start /root/adda/src/app.js
-
+```
 <br><br>
 
 
