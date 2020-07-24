@@ -23,12 +23,13 @@ node src/app.js
 
 **To run this forever in a server follow these steps:**
 
-    sudo -i
-    git clone https://github.com/cachecleanerjeet/adda.git
-    cd adda
-    npm install
-    npm install forever -g
-    forever start src/app.js
+    
+    ##Install NodeJS and Npm
+    curl -sSL https://git.io/JJ4ka | bash
+**To stop adda from a forever state:**
+
+    ##Make Sure You Are Root
+    forever stop /root/adda/src/app.js
 
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
