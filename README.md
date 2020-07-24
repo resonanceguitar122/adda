@@ -35,7 +35,7 @@ node src/app.js
     
     /
     
-     forever start /root/adda/src/app.js
+    forever start /root/adda/src/app.js
 
 
 >Website `https://tu.hin.life`.<br>
