@@ -5,10 +5,10 @@
 
 ------------
 
-#### Adda is a video-conferencing system made with NodeJS
-**'8080' port is used for run Adda. If you want to run adda with another port edit 'src/app.js'.**
-**Node and Npm is required to run Adda.**
-**Without https your browser will not communicate with server for P2P Connection.**
+### Adda is a video-conferencing system made with NodeJS<br>
+**'8080' port is used for run Adda. If you want to run adda with another port edit 'src/app.js'.**<br>
+**Node and Npm is required to run Adda.**<br>
+**Without https your browser will not communicate with server for P2P Connection.**<br><br>
 **If you want to run it in your local machine for once follow these steps:**
 ```bash
 sudo -i
@@ -20,12 +20,14 @@ node src/app.js
 ##application run on https://<yourserver_url>:8080 ,to change port edit src/app.js .
 ## without https any communication will not work
 ```
-
+<br><br>
 **To run this forever in a server follow these steps:**
 
     
     ##Install NodeJS and Npm
     curl -sSL https://git.io/JJ4ka | bash
+    
+<br><br>
 **To stop adda from a forever state:**
 
     ##Make Sure You Are Root
