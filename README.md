@@ -28,10 +28,15 @@ node src/app.js
     curl -sSL https://git.io/JJ4ka | bash
     
 <br><br>
-**To stop adda from a forever state:**
+**To start/stop adda from a forever state:**
 
     ##Make Sure You Are Root
     forever stop /root/adda/src/app.js
+    
+    /
+    
+     forever start /root/adda/src/app.js
+
 
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
