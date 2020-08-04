@@ -19,7 +19,7 @@ node src/app.js
 <br><br>
 **To run this forever in a server follow these steps:**
 ```bash
-    ##Install NodeJS and Npm
+    ##Firstly Install NodeJS , Npm and Curl then Execute
     curl -sSL https://git.io/JJ4ka | bash
  ```   
 <br><br>
